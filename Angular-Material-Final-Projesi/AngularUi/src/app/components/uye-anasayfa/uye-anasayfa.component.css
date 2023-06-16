@@ -1,0 +1,17 @@
+button {
+    display: block;
+    background-color:#f50b0b;
+    color:#ffffff;
+    height:40px;
+    width: 120px;
+    text-align: center;
+    line-height:30px;
+    text-decoration:wavy;
+    transition:all .3s ease-in;
+    }
+button:hover{
+    color:#ffffff;
+    background-color:#f50b0b;
+    padding: 5px;
+    margin: 10px;
+    }
